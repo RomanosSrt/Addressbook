@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\addressbook\\contacttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\contacttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\addressbook\\contacttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\contacttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\addressbook\\contacttemplate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\contacttemplate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|c:\\users\\rpsar\\desktop\\msc info\\2nd sem\\fast applications\\projects\\addressbook\\addressbook\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\addressbook\\showcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\showcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\addressbook\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\addressbook\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\addressbook\\showcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\showcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\addressbook\\showcontact.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\showcontact.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\addressbook\\addcontactform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\addcontactform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C828E62A-6010-4268-9137-BBF455FC25D6}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShowContact.cs",
+              "DocumentMoniker": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\ShowContact.cs",
+              "RelativeDocumentMoniker": "AddressBook\\ShowContact.cs",
+              "ToolTip": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\ShowContact.cs",
+              "RelativeToolTip": "AddressBook\\ShowContact.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAowDsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:00:44.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowContact.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\ShowContact.cs",
+              "RelativeDocumentMoniker": "AddressBook\\ShowContact.cs",
+              "ToolTip": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\ShowContact.cs [Design]",
+              "RelativeToolTip": "AddressBook\\ShowContact.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:58:12.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactTemplate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\ContactTemplate.cs",
+              "RelativeDocumentMoniker": "AddressBook\\ContactTemplate.cs",
+              "ToolTip": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\ContactTemplate.cs [Design]",
+              "RelativeToolTip": "AddressBook\\ContactTemplate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:09:02.633Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowContact.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\ShowContact.Designer.cs",
+              "RelativeDocumentMoniker": "AddressBook\\ShowContact.Designer.cs",
+              "ToolTip": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\ShowContact.Designer.cs",
+              "RelativeToolTip": "AddressBook\\ShowContact.Designer.cs",
+              "ViewState": "AQIAAJIBAAAAAAAAAAAhwJwBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:21:21.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\ContactTemplate.cs",
+              "RelativeDocumentMoniker": "AddressBook\\ContactTemplate.cs",
+              "ToolTip": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\ContactTemplate.cs",
+              "RelativeToolTip": "AddressBook\\ContactTemplate.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAYwA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:18:07.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\Program.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Program.cs",
+              "ToolTip": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\Program.cs",
+              "RelativeToolTip": "AddressBook\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:06:10.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddContactForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\AddContactForm.Designer.cs",
+              "RelativeDocumentMoniker": "AddressBook\\AddContactForm.Designer.cs",
+              "ToolTip": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\AddContactForm.Designer.cs",
+              "RelativeToolTip": "AddressBook\\AddContactForm.Designer.cs",
+              "ViewState": "AQIAABQBAAAAAAAAAAAYwBgBAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:22:40.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddContactForm.cs",
+              "DocumentMoniker": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "AddressBook\\AddContactForm.cs",
+              "ToolTip": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\AddContactForm.cs",
+              "RelativeToolTip": "AddressBook\\AddContactForm.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwEwAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:33:47.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\Form1.Designer.cs",
+              "RelativeToolTip": "AddressBook\\Form1.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:48:09.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactTemplate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\ContactTemplate.Designer.cs",
+              "RelativeDocumentMoniker": "AddressBook\\ContactTemplate.Designer.cs",
+              "ToolTip": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\ContactTemplate.Designer.cs",
+              "RelativeToolTip": "AddressBook\\ContactTemplate.Designer.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwDEAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:02:28.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddContactForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "AddressBook\\AddContactForm.cs",
+              "ToolTip": "C:\\Users\\rpsar\\Desktop\\MSc Info\\2nd Sem\\Fast Applications\\Projects\\AddressBook\\AddressBook\\AddContactForm.cs [Design]",
+              "RelativeToolTip": "AddressBook\\AddContactForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:27:35.795Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 367,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
