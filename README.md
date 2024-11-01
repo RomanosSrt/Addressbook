@@ -102,7 +102,8 @@ The **Add Contact Form** provides a straightforward way to add new contacts with
 
 - **Visual Cues**: Cursor changes, color highlights, and informative labels guide users through interactive features.
 
-![Add Contact](Images/Picture7.png)   ![Add Contact](Images/Picture8.png)   ![Add Contact](Images/Picture9.png)   ![Add Contact](Images/Picture10.png)
+![Add Contact](Images/Picture7.png)   
+![Add Contact](Images/Picture8.png)   ![Add Contact](Images/Picture9.png)   ![Add Contact](Images/Picture10.png)
 
 - **Exit Prompts**: Users receive a confirmation message if they attempt to exit a form without saving, helping prevent accidental data loss.
 
